@@ -1,0 +1,16 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "the ip fetching project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "sardar imanjeet singh",
+  "license": "ISC"
+}
